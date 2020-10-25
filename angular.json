@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "socketIOClient"
+    }
+  },
+  "defaultProject": "socketIOClient",
+  "cli": {
+    "analytics": false
+  }
 }
